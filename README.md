@@ -21,7 +21,7 @@ and user visual code for writing codes
 * Python3.6
 * Django
 * terminal 
-* ubuntu window
+* ubuntu 20.04
 * html
 * javascript
 * css
