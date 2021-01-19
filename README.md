@@ -34,10 +34,10 @@ Use Terminal to open the server and the brouser to run this application
 ### Behavior Driven Development (BDD)
 
 * Create structure  etc..
-* Create 4 classs are Profile,Image, Followers, Location
+* Create 4 classes are Profile,Image, Followers, Location
 * Create test file to test all your method 
 * Create the manage file for used to run all your test
 
-## Licence 
+## Licence
 
 MIT
