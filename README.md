@@ -1,7 +1,7 @@
 # insta-application
 
 This application will allow the user to view photos,likes,follow and unfollow even comment.
-This web application works as the same as the instagram website the user is able to like,to post, and comment any picture they want and the user can have their own profile where they can view only the picture ther have posted.
+This web application works as the same as the instagram website the user is able to like,to post, and comment any picture they want and the user can have their own profile where they can view only the picture they have posted.
 
 ## By Elisephan Ntakirutimana 
 
