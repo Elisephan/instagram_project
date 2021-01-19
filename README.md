@@ -29,7 +29,7 @@ and user visual code for writing codes
 
 ## Run
 
-Use Terminal to open the server and the brouser to run this application
+Use Terminal to open the server and the browser to run this application
 
 ### Behavior Driven Development (BDD)
 
@@ -39,5 +39,4 @@ Use Terminal to open the server and the brouser to run this application
 * Create the manage file for used to run all your test
 
 ## Licence
-
 MIT
