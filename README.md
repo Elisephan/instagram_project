@@ -1,9 +1,9 @@
 # insta-application
 
-This application will allow the user to view photos,likes,follow and unfollow even comments.
-this web application works as the same as the instagram website the user able to likes  according to the post, comment any picture they want and the user can have their own profile where they can view only the picture ther have post.
+This application will allow the user to view photos,likes,follow and unfollow even comment.
+This web application works as the same as the instagram website the user is able to like,to post, and comment any picture they want and the user can have their own profile where they can view only the picture ther have posted.
 
-## By Elisephan Ntakirutimana https://instagramafrica.herokuapp.com/
+## By Elisephan Ntakirutimana 
 
 ## Description
 
